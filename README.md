@@ -1,4 +1,4 @@
-
+````markdown
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
@@ -11,10 +11,11 @@
 
 <br>
 
-[![YouTube](https://www.youtube.com/@%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A7%D8%AD%D9%85%D8%AF-%D8%B68%D9%86)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@عبدالسلاماحمد-ض8ن)
 
-[![GitHub](https://github.com/abdelsalam112233s4455-cyber)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelsalam112233s4455-cyber)
 
+![Profile Views](https://komarev.com/ghpvc/?username=abdelsalam112233s4455-cyber&style=for-the-badge&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
@@ -22,24 +23,17 @@
 
 # 🚀 About Me
 
-class AbdulSalam {
+- 👋 Hi, I'm **Abdul Salam Ahmed**
+- 🎥 YouTube Content Creator.
+- 📱 Flutter Developer.
+- ⚙️ Low-Level & Embedded Systems Programmer.
+- 🔥 Linux Kernel Programming Enthusiast.
+- ☁️ Firebase Developer.
+- 🎬 Video & Photo Editor.
+- 💻 I enjoy building everything from low-level systems to modern Flutter applications.
 
-public:
+---
 
-    string name = "Abdul Salam Ahmed";
-
-    vector<string> roles = {
-        "YouTube Content Creator",
-        "Flutter Developer",
-        "C Programmer",
-        "Embedded Systems Developer",
-        "Kernel Programming Enthusiast",
-        "Low-Level Programmer",
-        "Firebase Developer",
-        "Video & Photo Editor"
-    };
-
-};
 # 💻 Tech Stack
 
 ## Programming Languages
@@ -61,55 +55,24 @@ public:
 
 ## Editors & Tools
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 ---
 
-# 🛠 Technologies I Use
+# 🛠 Skills
 
-```dart
-class AboutMe {
-
-  const skills = {
-
-    "Mobile": {
-      "Flutter",
-      "Firebase"
-    },
-
-    "Programming": {
-      "C",
-      "C++",
-      "Python",
-      "Dart"
-    },
-
-    "Systems": {
-      "Kernel Programming",
-      "Embedded Systems",
-      "Low Level Programming",
-      "Linux"
-    },
-
-    "Content Creation": {
-      "YouTube",
-      "Video Editing",
-      "Photo Editing"
-    },
-
-    "Tools": {
-      "Git",
-      "VS Code",
-      "Premiere Pro",
-      "Photoshop"
-    }
-
-  };
-
-}
-```
+- 📱 Flutter
+- ☁️ Firebase
+- 💻 C Programming
+- 🐍 Python
+- ⚙️ Embedded Systems
+- 🧠 Linux Kernel
+- 🖥️ Low-Level Programming
+- 🎥 YouTube Content Creation
+- 🎬 Video Editing
+- 🖼️ Photo Editing
 
 ---
 
@@ -125,10 +88,10 @@ C            ████████                     20%
 
 # 🌱 Currently Learning
 
-- ⚙️ Linux Kernel Development
-- 🔌 Embedded Systems
-- 📱 Advanced Flutter Architecture
-- 🚀 Performance Optimization
+- Linux Kernel Development
+- Embedded Systems
+- Advanced Flutter
+- Performance Optimization
 
 ---
 
@@ -139,10 +102,10 @@ C            ████████                     20%
 - C Programming
 - Embedded Systems
 - Linux
-- Operating Systems
 - Kernel Development
+- Low-Level Programming
 - Video Editing
-- YouTube Content Creation
+- YouTube
 
 ---
 
@@ -150,21 +113,21 @@ C            ████████                     20%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdelsalam112233s4455-cyber&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelsalam112233s4455-cyber&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelsalam112233s4455-cyber&theme=github_dark"/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdelsalam112233s4455-cyber&theme=github_dark" width="32%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelsalam112233s4455-cyber&theme=github_dark" width="32%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelsalam112233s4455-cyber&theme=github_dark" width="32%"/>
 
 </div>
 
@@ -174,7 +137,7 @@ C            ████████                     20%
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=abdelsalam112233s4455-cyber&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -182,7 +145,7 @@ C            ████████                     20%
 
 # ⚡ Fun Fact
 
-> "I enjoy building software from the hardware level all the way up to beautiful Flutter applications."
+> I enjoy building software from the hardware level all the way up to beautiful Flutter applications.
 
 ---
 
