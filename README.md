@@ -40,7 +40,7 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "ProgramingLanguages" : { "Dart", "C", "Python" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "Firebase", "Sqlite", "PostgreSql" },
     "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
@@ -49,6 +49,21 @@ class About extends Me {
   };
 }
 ```
+
+<div align="center">
+
+<svg viewBox="0 0 320 300" xmlns="http://www.w3.org/2000/svg" width="320" height="300">
+  <title>Languages pie chart</title>
+  <desc>Dart 50%, C 25%, Python 25%</desc>
+  <path d="M150,150 L150,30 A120,120 0 0,1 150,270 Z" fill="#378ADD"/>
+  <path d="M150,150 L150,270 A120,120 0 0,1 30,150 Z" fill="#1D9E75"/>
+  <path d="M150,150 L30,150 A120,120 0 0,1 150,30 Z" fill="#BA7517"/>
+  <text x="220" y="150" text-anchor="middle" font-size="13" font-weight="500" fill="#042C53">Dart 50%</text>
+  <text x="100" y="199" text-anchor="middle" font-size="13" font-weight="500" fill="#04342C">C 25%</text>
+  <text x="100" y="101" text-anchor="middle" font-size="13" font-weight="500" fill="#412402">Python 25%</text>
+</svg>
+
+</div>
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
@@ -85,4 +100,3 @@ class About extends Me {
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
 </div>
-
