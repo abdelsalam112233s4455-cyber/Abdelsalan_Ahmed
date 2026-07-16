@@ -12,7 +12,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@عبدالسلاماحمد-ض8ن)
 
-[![URL](https://img.shields.io/badge/URL-181717?style=for-the-badge&logo=github&logoColor=white)](https://oshwad-25d15.firebaseapp.com/)
+[![URL](https://img.shields.io/badge/URL-181717?style=for-the-badge)](https://oshwad-25d15.firebaseapp.com/)
 
 
 
