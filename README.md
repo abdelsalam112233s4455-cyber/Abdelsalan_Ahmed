@@ -23,7 +23,6 @@
 
 # 🚀 About Me
 
-```cpp
 class AbdulSalam {
 
 public:
@@ -42,10 +41,6 @@ public:
     };
 
 };
-```
-
----
-
 # 💻 Tech Stack
 
 ## Programming Languages
